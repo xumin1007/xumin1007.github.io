@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student in [The Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), where I am supervised by Professor [Viet Anh Nguyen](https://www.vietanhnguyen.net/). Previously, I obtained a M.S. in Mathematics from [Nanjing University](https://www.nju.edu.cn/) in 2024, where I was co-supervised by Professor [Houcai Shen](https://sme.nju.edu.cn/shc/list.psp) and Professor [Caihua Chen](https://sme.nju.edu.cn/cch/list.psp).  I also obtained a B.S. in Mathematics and Applied Mathematics from [Sichuan University](https://www.scu.edu.cn/) in 2021.
+I am a second-year PhD student in the [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), where I am supervised by Professor [Viet Anh Nguyen](https://www.vietanhnguyen.net/). Previously, I obtained a M.S. in Mathematics from [Nanjing University](https://www.nju.edu.cn/) in 2024, where I was co-supervised by Professor [Houcai Shen](https://sme.nju.edu.cn/shc/list.psp) and Professor [Caihua Chen](https://sme.nju.edu.cn/cch/list.psp).  I also obtained a B.S. in Mathematics and Applied Mathematics from [Sichuan University](https://www.scu.edu.cn/) in 2021.
 
 My research interests lie in data-driven decision making, with applications spanning machine learning and operations research. Broadly, I focus on developing efficient algorithms that turn data into reliable decisions under uncertainty and limited resources, with an emphasis on computational scalability and practical performance. You can find my [CV here](assets/DongxuanZhu_CV.pdf).
 
@@ -48,11 +48,6 @@ My research interests lie in data-driven decision making, with applications span
 
 - [Boosting Accelerated Proximal Gradient Method with Adaptive Sampling for Stochastic Composite Optimization](https://arxiv.org/abs/2507.18277), **Dongxuan Zhu**, Weihuan Huang, Caihua Chen
 
-# 🎖 Honors and Awards
-- The First Price Scholarship(2021) and The Third Price Scholarship(2022) in Nanjing University
-- Individual Scholarship (2018&2019) and The Third Price Scholarship(2020) in Sichuan University
-
-
 # 💻 Internships
 - *2023.11 - 2024.03*, [Ant Group](https://www.antgroup.com/), Hangzhou, China.
 
@@ -61,6 +56,10 @@ My research interests lie in data-driven decision making, with applications span
   - SEEM 5710 Principles of Operations Management, Spring 2025
   - ENGG 2760 Probabilities for Engineers, Spring 2025
   - ENGG 2440 Discrete Math for Engineers, Fall 2024
+
+# 🎖 Honors and Awards
+- The First Price Scholarship(2021) and The Third Price Scholarship(2022) in Nanjing University
+- Individual Scholarship (2018&2019) and The Third Price Scholarship(2020) in Sichuan University
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

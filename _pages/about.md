@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student in [The Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), where I am supervised by Professor [Viet Anh Nguyen](https://www.vietanhnguyen.net/). Previously, I obtained a M.S. in Mathematics from [Nanjing University](https://www.nju.edu.cn/) in 2024, where I was co-supervised by Professor [Houcai Shen](https://sme.nju.edu.cn/shc/list.psp) and Professor [Caihua Chen](https://sme.nju.edu.cn/cch/list.psp).  I also obtained a B.S. in Mathematics from [Sichuan University](https://www.scu.edu.cn/) in 2021.
+I am a second-year PhD student in [The Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), where I am supervised by Professor [Viet Anh Nguyen](https://www.vietanhnguyen.net/). Previously, I obtained a M.S. in Mathematics from [Nanjing University](https://www.nju.edu.cn/) in 2024, where I was co-supervised by Professor [Houcai Shen](https://sme.nju.edu.cn/shc/list.psp) and Professor [Caihua Chen](https://sme.nju.edu.cn/cch/list.psp).  I also obtained a B.S. in Mathematics and Applied Mathematics from [Sichuan University](https://www.scu.edu.cn/) in 2021.
 
-My research interests lie in data-driven decision making, with applications spanning machine learning and operations research. Broadly, I focus on developing efficient algorithms that turn data into reliable decisions under uncertainty and limited resources, with an emphasis on computational scalability and practical performance.
+My research interests lie in data-driven decision making, with applications spanning machine learning and operations research. Broadly, I focus on developing efficient algorithms that turn data into reliable decisions under uncertainty and limited resources, with an emphasis on computational scalability and practical performance. You can find my [CV here](assets/DongxuanZhu_CV.pdf).
 
 
 # 🔥 News
@@ -40,7 +40,7 @@ My research interests lie in data-driven decision making, with applications span
 </div>
 </div> -->
 
-- [Exploring Diverse Generation Paths via Inference-time Stiefel Activation Steering](https://openreview.net/forum?id=v0QOVSVPtq&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **Dongxuan Zhu**, Ly Tran Ho Khanh, Andy Yat-Ming Cheung, Man-Chung Yue, Viet Anh Nguyen, **ICIR 2026**
+- [Exploring Diverse Generation Paths via Inference-time Stiefel Activation Steering](https://openreview.net/forum?id=v0QOVSVPtq&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **Dongxuan Zhu**, Ly Tran Ho Khanh, Andy Yat-Ming Cheung, Man-Chung Yue, Viet Anh Nguyen, **ICLR 2026**
 
 - [Test-time Diverse Reasoning by Riemannian Activation Steering](https://arxiv.org/abs/2511.08305), Ly Tran Ho Khanh, **Dongxuan Zhu**, Man-Chung Yue, Viet Anh Nguyen, **AAAI 2026**
 

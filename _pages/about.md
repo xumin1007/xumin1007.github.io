@@ -58,8 +58,8 @@ My research interests lie in data-driven decision making, with applications span
   - ENGG 2440 Discrete Math for Engineers, Fall 2024
 
 # 🎖 Honors and Awards
-- The First Price Scholarship(2021) and The Third Price Scholarship(2022) in Nanjing University
-- Individual Scholarship (2018&2019) and The Third Price Scholarship(2020) in Sichuan University
+- The First Prize Scholarship (2021) and The Third Prize Scholarship (2022) in Nanjing University
+- Individual Scholarship (2018&2019) and The Third Prize Scholarship (2020) in Sichuan University
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

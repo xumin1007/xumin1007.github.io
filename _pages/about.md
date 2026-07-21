@@ -3,69 +3,38 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student in the [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), where I am supervised by Professor [Viet Anh Nguyen](https://www.vietanhnguyen.net/). Previously, I obtained a M.S. in Mathematics from [Nanjing University](https://www.nju.edu.cn/) in 2024, where I was co-supervised by Professor [Houcai Shen](https://sme.nju.edu.cn/shc/list.psp) and Professor [Caihua Chen](https://sme.nju.edu.cn/cch/list.psp).  I also obtained a B.S. in Mathematics and Applied Mathematics from [Sichuan University](https://www.scu.edu.cn/) in 2021.
+I am a fourth-year PhD student in the [School of Management and Engineering](https://sme.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/), advised by Professor [Caihua Chen](https://sme.nju.edu.cn/cch/list.psp).
 
-My research interests lie in data-driven decision making, with applications spanning machine learning and operations research. Broadly, I focus on developing efficient algorithms that turn data into reliable decisions under uncertainty and limited resources, with an emphasis on computational scalability and practical performance. You can find my [CV here](assets/DongxuanZhu_CV.pdf).
+Previously, I received my M.S. in Mathematics from Nanjing University and my B.S. in Mathematics from [Dalian University of Technology](https://en.dlut.edu.cn/).
 
+My research interests lie at the intersection of **machine learning**, **dynamic pricing**, and **data-driven decision-making under uncertainty**. I am particularly interested in developing reliable and computationally efficient methods for offline learning and distributionally robust optimization.
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper get accpted to ICLR 2026!
-- *2025.12*: &nbsp;🎉🎉 One paper get accpted to AAAI 2026!
 
-# 📝 Publications 
+- *2026.05*: Our paper **Doubly Robust Distributionally Robust Offline Contextual Pricing** was accepted by ICML 2026.
+- *2026.07*: My personal academic website and Google Scholar profile are now online.
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📝 Publications
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [**Doubly Robust Distributionally Robust Offline Contextual Pricing**](https://openreview.net/profile?id=~Min_Xu10), **Min Xu**, Xinyi Yin, Yunfan Zhang, Yuxuan Han, Houcai Shen, Caihua Chen, *Forty-third International Conference on Machine Learning (ICML)*, 2026. [Google Scholar](https://scholar.google.com/citations?user=t1s7M4EAAAAJ)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+# 🎓 Education
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
+- **Ph.D. student**, Management Science and Engineering, School of Management and Engineering, Nanjing University
+- **M.S.**, Mathematics, Nanjing University
+- **B.S.**, Mathematics, Dalian University of Technology
 
-- [Exploring Diverse Generation Paths via Inference-time Stiefel Activation Steering](https://openreview.net/forum?id=v0QOVSVPtq&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **Dongxuan Zhu**, Ly Tran Ho Khanh, Andy Yat-Ming Cheung, Man-Chung Yue, Viet Anh Nguyen, **ICLR 2026**
+# 📫 Contact
 
-- [Test-time Diverse Reasoning by Riemannian Activation Steering](https://arxiv.org/abs/2511.08305), Ly Tran Ho Khanh, **Dongxuan Zhu**, Man-Chung Yue, Viet Anh Nguyen, **AAAI 2026**
-
-# ✒️ Preprints
-
-- [Boosting Accelerated Proximal Gradient Method with Adaptive Sampling for Stochastic Composite Optimization](https://arxiv.org/abs/2507.18277), **Dongxuan Zhu**, Weihuan Huang, Caihua Chen
-
-# 💻 Internships
-- *2023.11 - 2024.03*, [Ant Group](https://www.antgroup.com/), Hangzhou, China.
-
-# 📖 Teaching
-- Teaching Assistant, The Chinese University of Hong Kong
-  - SEEM 5710 Principles of Operations Management, Spring 2025
-  - ENGG 2760 Probabilities for Engineers, Spring 2025
-  - ENGG 2440 Discrete Math for Engineers, Fall 2024
-
-# 🎖 Honors and Awards
-- The First Prize Scholarship (2021) and The Third Prize Scholarship (2022) in Nanjing University
-- Individual Scholarship (2018&2019) and The Third Prize Scholarship (2020) in Sichuan University
-
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
+- Email: [minxu@smail.nju.edu.cn](mailto:minxu@smail.nju.edu.cn)
+- Google Scholar: [Min Xu](https://scholar.google.com/citations?user=t1s7M4EAAAAJ)
+- GitHub: [xumin1007](https://github.com/xumin1007)
+- OpenReview: [Min Xu](https://openreview.net/profile?id=~Min_Xu10)
+- ORCID: [0009-0001-6121-5553](https://orcid.org/0009-0001-6121-5553)

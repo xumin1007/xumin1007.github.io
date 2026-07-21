@@ -14,7 +14,7 @@ I am a fourth-year PhD student in the [School of Management and Engineering](htt
 
 Previously, I received my M.S. in Mathematics from Nanjing University and my B.S. in Mathematics from [Dalian University of Technology](https://en.dlut.edu.cn/).
 
-My research interests lie at the intersection of **machine learning**, **dynamic pricing**, and **data-driven decision-making under uncertainty**. I am particularly interested in developing reliable and computationally efficient methods for offline learning and distributionally robust optimization.
+My research interests include **data-driven decision-making under uncertainty**, **causal inference**, and **pricing and assortment optimization**. I am currently interested in exploring how large language models can be integrated with forecasting and predictive modeling.
 
 # 🔥 News
 

@@ -19,7 +19,6 @@ My research interests lie at the intersection of **machine learning**, **dynamic
 # 🔥 News
 
 - *2026.05*: Our paper **Doubly Robust Distributionally Robust Offline Contextual Pricing** was accepted by ICML 2026.
-- *2026.07*: My personal academic website and Google Scholar profile are now online.
 
 # 📝 Publications
 

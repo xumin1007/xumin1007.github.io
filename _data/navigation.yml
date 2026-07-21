@@ -12,5 +12,11 @@ main:
   - title: "Education"
     url: "/#-education"
 
+  - title: "Project"
+    url: "/#-research-project"
+
+  - title: "Teaching"
+    url: "/#-teaching"
+
   - title: "Contact"
     url: "/#-contact"

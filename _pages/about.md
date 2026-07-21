@@ -30,6 +30,17 @@ My research interests lie at the intersection of **machine learning**, **dynamic
 - **M.S.**, Mathematics, Nanjing University
 - **B.S.**, Mathematics, Dalian University of Technology
 
+# 💼 Research Project
+
+- **Intelligent Optimization Theory and Real-time Decision System Research for Online Decision Making in Dynamic Environments**, Jiangsu Province Graduate Research and Innovation Program, **Principal Investigator**, 2025–2026.
+
+# 📖 Teaching
+
+- Teaching Assistant, Nanjing University
+  - Calculus, Fall 2022
+  - Applied Statistics, Spring 2025
+  - Introduction to Data Analysis and Decision Making, Spring 2026
+
 # 📫 Contact
 
 - Email: [minxu@smail.nju.edu.cn](mailto:minxu@smail.nju.edu.cn)

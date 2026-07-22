@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Min Xu's Homepage"
-description              : "PhD student at Nanjing University"
+title                    : "Min Xu | PhD Student at Nanjing University"
+description              : "Min Xu is a PhD student in Management Science and Engineering at Nanjing University, researching data-driven decision-making, causal inference, pricing, and assortment optimization."
 repository               : "xumin1007/xumin1007.github.io"
 google_scholar_stats_use_cdn : true
 
